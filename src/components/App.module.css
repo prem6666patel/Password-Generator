@@ -1,0 +1,44 @@
+.box{
+
+    background-color:cornsilk;
+    border: 2.5px solid black;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+    margin-left: 600px;
+    width: 390px;
+    
+}
+
+.np{
+
+    border: 1px solid black;
+    margin: 10px;
+    width: 70%;
+}
+
+.btn{
+
+    background-color:dodgerblue;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius:5px;
+    font-weight: 900;
+    width: 60px;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+}
+
+.heading{
+
+    font-weight: 900;
+    font-size: 40px
+}
+
+.line2{
+
+    display: flex;
+}
